@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishipramanik
 - 👀 I’m interested in react.js
-- 🌱 I’m currently learning node.js
+- 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
