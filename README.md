@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rishipramanik
-- 👀 I’m interested in react.js, Javascript
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking for front end development role
+- 👀 I’m a Software Engineer and i work on react and javascript
+- 🌱 I’m currently learning node and express.
+- 💞
 - 📫 Reach me on Linkedin at https://www.linkedin.com/in/rishi-pramanik/
 
 <!---
