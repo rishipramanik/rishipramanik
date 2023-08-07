@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishipramanik
-- 👀 I’m a Software Engineer and i work on react and javascript
-- 🌱 I’m currently learning node and express.
+- 👀 I’m a Software Engineer and i work on react, react native and javascript
+- 🌱 I’m currently learning next.
 - 💞
 - 📫 Reach me on Linkedin at https://www.linkedin.com/in/rishi-pramanik/
 
