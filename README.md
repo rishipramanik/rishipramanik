@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **AirBnb Clone using React-Native**
 
-- 🌱 I’m currently learning **java, kotlin, swift, node**
+- 🌱 I’m currently learning **next, kotlin, swift, node**
 
 - 💬 Ask me about **react, react-native, javascript**
 
