@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rishi Pramanik</h1>
 <h3 align="center">A passionate frontend developer from Bengaluru, India</h3>
 
-- 🔭 I’m currently working on **AirBnb Clone using React-Native**
+- 🔭 I’m currently working on **Full Stack Nextjs App**
 
-- 🌱 I’m currently learning **next, kotlin, swift, node**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **react, react-native, javascript**
 
